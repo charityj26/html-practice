@@ -1,0 +1,22 @@
+body{
+background-color:aliceblue;
+border-style:solid;
+border-width:2px;
+border-color:black;
+outline:5px solid greenyellow;
+padding-left:30px;
+}
+h1{
+    color: red;
+}
+button{
+    color: red;
+    padding: 15x;
+    border-radius: 5px;
+}
+
+p{
+    list-style-type: circle;
+    color:blue;
+    font-size: small;
+}

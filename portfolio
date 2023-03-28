@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+        <body>
+            <h1>Charity Joseph's portfolio</h1>
+            <button>ABOUT ME</button>
+            <P>I'm a software engineer</P>
+            <p>passionate about soliving software problems</p>
+            <p>desire to develop scalable front end systems</p>
+            
+            <button>EDUCATION</button>
+            <P>Bachelor of Business information And Technology</P>
+            <p>software Engineering </p>
+            <button>contacts</button>
+           <P>PHONE</P> <i><p>+2544831668</p></i>
+            
+            <P>EMAIL</P><i><p>jckathitu@gmail</p></i>
+            
+
+
+            <P>ADRESS:</P><i><p>NAIROBI</p></i>
+            </body>
+</html>
+                
